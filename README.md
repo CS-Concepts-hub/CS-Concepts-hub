@@ -1,4 +1,5 @@
-- 👋 Hi, This is @CS-Concepts-hub (a repository of topical lectures of CS-Courses with lectures in Urdu/English for students in Pakistan). 
+- 👋 Hi, This is @CS-Concepts-hub ( a repository of topical lectures of Computer Science Courses of BS degree.
+-         Lectures are in the form of video made of power point lecture presentation (in English) with lecture explaintation in Urdu/English.     
 - I am M. Afzal Bhatti, PhD (Computer Science) from University of Kent at Centerbury, UK. 
 -   Worked as a faculty member in CS-department of Quaid-i-Azam Univ. and retired in 2016. 
 - I’m interested to upload lectures of Computer Science courses. Main aim of these courses is to clarify concepts of different topics of courses.   
