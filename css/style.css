@@ -7,21 +7,22 @@
 }
 
 .main-container {
-    text-align: center; }
+    text-align: center; 
+}
 
 .main {
     max-width: 60em;
     width: 80%;
     text-align: left;
-    display: inline-block; }
+    display: inline-block;
+    background-color: #FBFBFB;
+}
 a:link {
     color: #00008b;
 }
 a:visited {
 color: #800080;
 }
-a:body {
-    background-color: #FBFBFB;
 }
 header {
     padding: 2em 0; }
