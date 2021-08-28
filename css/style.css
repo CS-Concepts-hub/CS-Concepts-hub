@@ -20,6 +20,7 @@ a:link {
 a:visited {
 color: #800080;
 }
+body {background-color: #FBFBFB;}
 header {
     padding: 2em 0; }
 header .header-title {
