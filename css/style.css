@@ -22,6 +22,8 @@ a:link {
 a:visited {
 color: #800080;
 }
+a:body {
+    background-color: #FBFBFB;
 }
 header {
     padding: 2em 0; }
@@ -93,9 +95,6 @@ footer.footer .half-row.r {
     font-size: 3em;
     padding: 0;
     margin: 0.25em 0; }
-.page-body {
-    background-color: #FBFBFB;
-}
 .text {
     margin: 0;
     font-weight: 300}
