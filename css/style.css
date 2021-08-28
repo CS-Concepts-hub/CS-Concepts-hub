@@ -15,8 +15,7 @@
     width: 80%;
     text-align: left;
     display: inline-block;
-    background-color: #FBFBFB;
-}
+   }
 a:link {
     color: #00008b;
 }
@@ -94,7 +93,9 @@ footer.footer .half-row.r {
     font-size: 3em;
     padding: 0;
     margin: 0.25em 0; }
-
+.page-body {
+    background-color: #FBFBFB;
+}
 .text {
     margin: 0;
     font-weight: 300}
